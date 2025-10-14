@@ -1,0 +1,33 @@
+div {
+    font-family: cursive;
+    color: aquamarine;
+}
+
+span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: coral;
+    font-size: x-large;
+
+} 
+
+.myClass{ 
+    font-size: 25px;
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+#myID{
+    font-size: 10px;
+    color: firebrick;
+    font-weight: bold;
+}
+
+#myID2{ 
+    font-size: 10px;
+    color: rgb(90, 32, 32);
+    font-weight: lighter
+
+}
+ body {
+    background-image: url(vaporwave%20sun.jpg);
+ }
